@@ -1,1 +1,70 @@
-# 2201306
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>
+            <img src="daum.jpg" alt="회사로고">
+        </h1>
+        <nav>
+            <ui>
+                <li><a href="http://top.cafe.daum.net">카페</a></li>
+                <li><a href="http://map.kakao.com">지도</a></li>
+                <li><a href="http://webtoon.kakao.com"><mark>웹툰</mark></a></li>
+            </ui>
+        </nav>
+    </header>
+    <table cellpadding="10" cellspacing="4" width="100%" height="150">
+        <tr bgcolor="pink" align="center">
+            <td width="100">월</td>
+            <td width="100">화</td>
+            <td width="100">수</td>
+            <td width="100">목</td>
+            <td width="100">금</td>
+            <td width="100">토</td>
+            <td width="100">일</td>
+        </tr>
+        <tr align="center">
+            <td width="100">1만화</td>
+            <td width="100">2만화</td>
+            <td width="100">3만화</td>
+            <td width="100">4만화</td>
+            <td width="100">5만화</td>
+            <td width="100">6만화</td>
+            <td width="100">7만화</td>
+        </tr>
+        <tr align="center">
+            <td width="100">8만화</td>
+            <td width="100">9만화</td>
+            <td width="100">10만화</td>
+            <td width="100">11만화</td>
+            <td width="100">12만화</td>
+            <td width="100">13만화</td>
+            <td width="100">14만화</td>
+        </tr>
+    </table>
+    <section>
+        <h2>SERVICES</h2>
+        <aside>
+            <p>카페 메일 뉴스 지도 증권 쇼핑 카카오TV</p>
+        </aside>
+        <article>
+            <h3>E-Commerce</h3>
+        </article>
+        <aside>
+            <p>카카오 계정으로 로그인</p>
+        </aside>
+    </section>
+    <footer>
+        <p>회사 주소 : 서울시 분당구 삼평동</p>
+        <p>연락처 : 1899-1326</p>
+        <p>이메일 : mail@daum.net</p>
+        <p>저작권 : 다음 회사 소유</p>
+    </footer>
+</body>
+</html>
